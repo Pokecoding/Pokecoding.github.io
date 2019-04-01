@@ -1,0 +1,230 @@
+p {
+	color: blue;
+	font-size: 30px;
+}
+
+.listitem {
+    color:blue;
+    font-size:30px;
+}
+
+
+.paragraph {
+    color:blue;
+    font-size:30px;
+}
+
+
+#background {
+  background-color:#00ff00;
+}
+
+
+#button { 
+  width:40%; 
+  height:40;
+  color:red;
+  background-color:blue;
+  border-radius:15px;
+}
+
+header {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+height:100px;
+width:20%;
+border:2px solid black;
+background-color:#ffff1a;
+margin-bottom:5em;
+}
+
+footer {
+height:100px;
+width:20%;
+border:2px solid black;
+background-color:#ff9900;
+} 
+
+
+#Create {
+height:20px;
+width:30%;
+}
+
+
+#Head {
+height:38px;
+width:100%;
+}
+
+
+.wrap-trivia {
+height: 250px;
+width: 450px;
+border: 5px double yellow;
+padding:5px;
+}
+
+.wrap-list {
+height: 200px;
+width: 450px;
+border: 5px dashed green;
+}
+
+
+.wrap-text {
+color: #000080;
+font-size: 45px;
+} 
+
+
+#three {
+ height:100px;
+ width:100px;
+ background-color:orange;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+ position: absolute;
+}
+
+
+
+
+#four {
+ height:100px;
+ width:100px;
+ background-color:purple;
+ position: absolute;
+}
+
+
+
+#five {
+ height:100px;
+ width:100px;
+ background-color:red;
+ position: absolute;
+}
+
+
+
+.navitem{
+list-style-type:none;
+display:inline;
+margin-right:.3em;
+padding:2px 5px; 
+}
+
+
+
+#navmenu{
+text-align:center;
+background-color:blue;
+color:white; 
+}
+
+
+
+a:link{
+  color:#808080;
+}
+
+
+
+a:visited{
+  color:#333399;
+}
+
+
+
+a:hover{
+  color:#003300;
+}
+
+
+
+a:active{
+  color:#66ffff;
+}
+
+
+
+.rightside { 
+float:right; 
+width:48%; 
+} 
+
+
+
+.leftside { 
+width:45%; 
+}
+
+
+
+.clearfloat { 
+ clear:both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
